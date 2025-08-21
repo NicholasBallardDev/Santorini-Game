@@ -1,0 +1,15 @@
+donut.map
+Players=2
+Player0 Artemis
+w 0 1
+W 0 2
+
+Player1 Demeter
+w 1 0
+W 2 0
+
+pieces
+1 1 1
+2 2 1
+3 3 1
+3D 4 1
